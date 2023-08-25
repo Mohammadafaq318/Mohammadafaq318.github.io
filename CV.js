@@ -1,0 +1,1 @@
+$("#Home").removeClass("active");
